@@ -27,56 +27,6 @@ The repository focuses on applying programming to solve physical problems, visua
 * Scientific documentation
 
 ---
-
-## Projects
-
-## 1. Projectile Motion Simulation
-
-A computational physics project that models and visualizes the trajectory of a projectile launched with an initial velocity at a specified angle.
-
-#### Features
-
-* User-defined launch velocity
-* User-defined launch angle
-* Support for degrees and radians
-* Automatic flight time calculation
-* Numerical trajectory generation
-* Graphical visualization using Matplotlib
-* Realistic projectile path under gravity
-
-#### Physics Concepts
-
-* Projectile motion
-* Kinematics
-* Horizontal and vertical motion decomposition
-* Time of flight
-* Gravitational acceleration
-
-#### Concepts Used
-
-* NumPy
-* Matplotlib
-* Trigonometric functions
-* Arrays
-* Scientific plotting
-* Mathematical modeling
-* Numerical simulation
-
-#### Language
-
-Python
-
----
-
-## Tools and Libraries
-
-* Python
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-
----
-
 ## Author
 
 Aleeza Fatima
