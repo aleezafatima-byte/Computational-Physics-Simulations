@@ -1,4 +1,4 @@
-# Computational-Physics-Simulations
+# Computational Physics Simulations
 
 A collection of computational physics projects, simulations, and numerical modeling applications implemented using Python, NumPy, Matplotlib, and scientific computing techniques.
 
