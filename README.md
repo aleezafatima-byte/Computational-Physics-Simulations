@@ -12,13 +12,8 @@ The repository focuses on applying programming to solve physical problems, visua
 * Numerical modeling
 * Mathematical computation
 * NumPy arrays
-* Vectorized computation
-* Data visualization
 * Matplotlib
-* Mathematical modeling
 * Numerical methods
-* Algorithm development
-* Scientific data analysis
 * Trigonometric functions
 * Differential equation concepts
 * Classical mechanics simulations
